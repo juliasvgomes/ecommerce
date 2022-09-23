@@ -10,7 +10,7 @@
 
 
 .background{
-    background-image: url(background.jpg);
+    background-image: url(./fotos/background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center top;
